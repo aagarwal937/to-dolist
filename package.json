@@ -13,7 +13,7 @@
         "csurf": "^1.11.0",
         "driver": "^1.0.0",
         "errorhandler": "^1.5.1",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "express-session": "^1.17.0",
         "jade": "1.5.0",
         "less-middleware": "^3.1.0",
